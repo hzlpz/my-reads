@@ -9,6 +9,7 @@ Once you have that installed, head over to you terminal type in:
 `cd my-reads`
 
 Once inside the my-reads directory run the following command:
+
 `npm start`
 
 That should automatically open a window on your browser with the application and it's contents. 
